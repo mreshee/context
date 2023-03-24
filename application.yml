@@ -1,2 +1,2 @@
-my.greeting : Hello
-db.connection: abc
+my.greeting : Hello from cloud server 
+db.connection: db connection from cloud server 
